@@ -1,0 +1,26 @@
+{
+    "CrossPromoUnits": [
+       
+        
+        {
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.drug.dealer",
+            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/DrugDealer.png"
+        },
+        {
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.hospital.emergency.sim",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/HopitalSim.jpg"
+        },
+        
+         {
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.supermarket.shopping.sim",
+            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/ShoppingSimulator.png"
+        },
+
+         {
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.border.police.patrol",
+            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/Border%20Patrol.png"
+        }
+       
+        
+    ]
+}
