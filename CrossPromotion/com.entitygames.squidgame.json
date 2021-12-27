@@ -1,0 +1,15 @@
+{
+    "CrossPromoUnits": [
+       
+        
+        {
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.vivacious.drug.dealer",
+            "IconUrl": "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/DrugDealer.png"
+        },
+        {
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.entitygames.juicyrunmaster",
+            "IconUrl":  "https://raw.githubusercontent.com/VivaciousGlory/Vivacious/main/CrossPromotion/Images/HopitalSim.jpg"
+        },
+        
+ ]
+}
