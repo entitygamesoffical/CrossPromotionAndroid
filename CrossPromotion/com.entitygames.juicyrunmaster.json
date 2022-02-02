@@ -1,15 +1,12 @@
 {
     "CrossPromoUnits": [
-       
-        
         {
             "GameUrl": "https://play.google.com/store/apps/details?id=com.entitygames.nolimits",
             "IconUrl": "https://raw.githubusercontent.com/entitygamesoffical/CrossPromotionAndroid/master/CrossPromotion/Images/Speed%20Car%20Parking.png"
         },
         {
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.entitygames.survivalchallengesquid&hl=en",
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.entitygames.survivalchallengesquid",
             "IconUrl":  "https://raw.githubusercontent.com/entitygamesoffical/CrossPromotionAndroid/master/CrossPromotion/Images/SquidGame-Android1.png"
-        },
-        
- ]
+        }
+    ]
 }
