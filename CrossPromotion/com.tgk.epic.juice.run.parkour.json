@@ -3,7 +3,10 @@
         {
             "GameUrl": "https://play.google.com/store/apps/details?id=com.tgk.idle.gas.station.junkyard.sim",
             "IconUrl": "https://raw.githubusercontent.com/entitygamesoffical/CrossPromotionAndroid/master/CrossPromotion/Images/Icon%201024%20%20x%201024.png"
+        },
+      {
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.tgk.fat.baby.huge.simulator.walk.yellow.game",
+            "IconUrl": "https://raw.githubusercontent.com/entitygamesoffical/CrossPromotionAndroid/master/CrossPromotion/Images/Icon%201024%20x%201024.png"
         }
-      
     ]
 }
